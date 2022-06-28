@@ -1,6 +1,10 @@
+@media{
+  
+}
+
 header {
-    position: fixed;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-  }
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
