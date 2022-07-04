@@ -9,6 +9,15 @@ header {
   align-items: center;
 }
 
+footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+li {
+  list-style: none;
+}
+
 #prices {
   display: flex;
   flex-direction: row;
