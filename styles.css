@@ -1,11 +1,15 @@
 @media {}
 
+body {
+  background-color: #dadce0
+}
+
 header {
   position: fixed;
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: grey;
+  background-color: #dadce0;
   width: 100%;
   top: 0;
   min-height: 75px;
@@ -24,7 +28,7 @@ header {
 
 footer {
   display: block;
-  background: grey;
+  background: #a9abb0;
 }
 
 footer,
